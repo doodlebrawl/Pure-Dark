@@ -1,0 +1,8 @@
+{
+  "name": "pure-dark-server",
+  "version": "1.0.0",
+  "description": "Relay + static server for Pure Dark team play",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
